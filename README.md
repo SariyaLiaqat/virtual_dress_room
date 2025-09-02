@@ -1,4 +1,5 @@
 # virtual_dress_room
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Virtual Dress Room App in Flutter
+>>>>>>> 7fc119d3f9da7c1ab828b9ca8e9ea23528505fa4
